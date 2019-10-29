@@ -5,9 +5,6 @@ import java.util.ArrayList;
 
 public class Traverse{
 
-	//Attributes
-	ArrayList<Integer> ResultInOneLine = new ArrayList<>();
-
 	void clockwise(){
 
 		int traverseRows=0;
